@@ -2,7 +2,7 @@
 - 👀 I’m interested in building products and startups
 - 🌱 I’m currently learning to become fullstack developer to build my own startup
 - 💞️ I’m looking to collaborate on projects that will enable me to learn 
-- 📫 How to reach me: https://www.linkedin.com/in/pioscelina/
+- 📫 How to reach me: [LinkedIn]([url](https://www.linkedin.com/in/pioscelina/)) or [Twitter]([url](https://x.com/pio_sce))
 - ⚡ Fun fact: I was drawing and selling spy comics in elementary school
 
 <!---
